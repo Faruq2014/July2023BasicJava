@@ -30,7 +30,7 @@ public class EnvironmentInterviewQuestions {
 		 */
 		//what is properties
 		//Configuration for different dependencies
-		// such waht java version should i have
+		// such what java version should i have
 		
 		// what is artifact ID
 		// is the project name such as July2023BasicJava
